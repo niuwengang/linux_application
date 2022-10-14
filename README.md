@@ -2,13 +2,17 @@
 或有趣或实用的轻量化/高效工具(web端或linux端)
 
 ## 【论文、笔记写作】
-Markdown表情包 www.webfx.com/tools/emoji-cheat-sheet  
-在线流程图 draw.io  www.draw.io    
-latex解析器 overleaf https://cn.overleaf.com/cn.overleaf.com  
+Markdown表情包 https://www.webfx.com/tools/emoji-cheat-sheet    
+在线流程图 draw.io  https://www.draw.io      
+latex解析器 overleaf https://cn.overleaf.com/cn.overleaf.com    
 
 ## 【CAD】
-PCB绘制 kicad https://www.kicad.org/   (linux下替代AD)
-三维建模 freecad https://github.com/FreeCAD  (linux下替代SW)
+ kicad linux版 https://www.kicad.org/   (linux下AD)  
+freecad linux版 https://github.com/FreeCAD  (linux下替代SW)  
 
 ## 【协作办公】
-飞书
+飞书 linux版 https://www.feishu.cn/ (linux下替代QQ、微信)  
+
+
+## 【git GUI工具】
+gitkraken https://www.gitkraken.com/  
