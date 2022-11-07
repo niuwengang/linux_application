@@ -16,3 +16,6 @@ freecad linux版 https://github.com/FreeCAD  (linux下替代SW)
 
 ## 【git GUI工具】
 gitkraken https://www.gitkraken.com/  
+
+## 【代码阅读】
+xmind思维导图 https://xmind.cn/  
