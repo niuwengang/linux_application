@@ -25,3 +25,7 @@ cloudcomparehttps://www.danielgm.net/cc/
 
 ## 【远程桌面】  
 anydesk https://anydesk.com/zhs(支持局域网及联网)
+
+## 【浏览器】  
+edge beta版本 https://www.microsoftedgeinsider.com/en-us/download/?platform=linux
+ 
