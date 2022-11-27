@@ -22,3 +22,6 @@ xmind思维导图 https://xmind.cn/
 
 ## 【点云处理】
 cloudcomparehttps://www.danielgm.net/cc/
+
+##【远程桌面】
+anydesk https://anydesk.com/zhs(支持局域网及联网)
