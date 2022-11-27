@@ -1,5 +1,5 @@
-# amazing_tools
-或有趣或实用的轻量化/高效工具(web端或linux端)
+# linux_application
+linux下推荐的优秀应用/工具
 
 ## 【论文、笔记写作】
 Markdown表情包 https://www.webfx.com/tools/emoji-cheat-sheet    
